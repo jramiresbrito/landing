@@ -1,0 +1,13 @@
+.btn-success {
+  display: inline-block;
+  background-color: #1edd88;
+  padding: 16px 36px;
+  border-radius: 48px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-success:hover,
+.btn-success:focus {
+  background-color: #0c613b;
+}
